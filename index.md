@@ -1,16 +1,5 @@
 
-## 私のGitHubの公開ページです
+## welcome to my page.
  
-## 取得資格
+## [works](https://tksyos.github.io/apps/)
  
-- 基本情報技術者
-- 応用情報技術者
-- QC検定2級
-
-## 習得言語
-- C
-- VBA
-
-## プロジェクト経験
- 
-- 2010年4月 ～ C言語によるシステム開発 PG
